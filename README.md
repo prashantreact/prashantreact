@@ -26,4 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantreact&show_icons=true&locale=en" alt="prashantreact" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantreact&" alt="prashantreact" /></p>
-![Leetcode Stats](https://leetcard.jacoblin.cool/prashantcoder70428?theme=light)
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=light)
